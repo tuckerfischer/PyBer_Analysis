@@ -8,6 +8,7 @@ The purpose of this project was to visualize ride fares by city type in order to
 
 ![image](https://user-images.githubusercontent.com/78890771/114330080-83e71280-9b06-11eb-8efe-07a66a7ceaf2.png)
 
+The ride volume was greates for urban cities. The fare per driver was negatively correlated with total rides which makes sense since there are more drivers to fill rides than in smaller markets. 
 
 ![image](https://user-images.githubusercontent.com/78890771/114308059-24f2b080-9aa8-11eb-8635-5bffa5bd0de2.png)
 
