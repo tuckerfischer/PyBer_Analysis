@@ -15,5 +15,5 @@ Ride fares were the greatest for urban cities and the lowest for rural cities.
 Based on the resulting graph from our analysis we determined that:
 
   1. Focus should be placed on growing the urban market as this is where fares are the highest
-  2. Research needs to be done on the rural markets to determine how to increase ride volume in the rural market
-  3. 
+  2. Research needs to be done on the rural markets to determine how to increase ride volume 
+  3. Data should be collected to determine margin percentage in each market 
